@@ -1,0 +1,2 @@
+Googe firebase project Id  for spotigy-clone  Project :-       spotify-clone-a857b
+Spotify  Client Id :-       97ecf5ce38b843c0aeb39b1cc93287d1
