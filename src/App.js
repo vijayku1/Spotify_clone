@@ -19,7 +19,6 @@ function App() {
 
     if (_token) {
       s.setAccessToken(_token);
-
       dispatch({
         type: "SET_TOKEN",
         token: _token,
